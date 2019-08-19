@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EpamTasks\EpamTraining1.csproj" />
+    <ProjectReference Include="..\EpamTraining2\EpamTraining2.csproj" />
+  </ItemGroup>
+
+</Project>
